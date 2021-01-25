@@ -6,5 +6,5 @@ module.exports = {
   greetingDescription: "I'm Taremowei Appah and I am a Software Engineer",
   githubUrl: "https://github.com/grillzwitu",
   linkedinUrl: "www.linkedin.com/in/taremowei-appah-b816a51ba/",
-  cvLink: "https://docs.google.com/document/d/1xEMuKJCkQQDNCOZQSNsoX_t3e_3IDqT_aFNPcsg4HyM/edit?usp=sharing",
+  cvLink: "https://drive.google.com/file/d/1gH-JH8sSrwjY2_rq7kE5JN5_n-2KQ2h0/view?usp=sharing",
 };
